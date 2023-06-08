@@ -14,13 +14,13 @@ jekyll 에서는 github 호스팅을 통해 간편하게 블로그를 생성할�
 1.github 가입 및 Repository 생성 
  github 가입 하기 [github 사이트]( https://github.com/)
 
-**Here is some bold text**
+** 볼드 텍스트 **
 
-## Here is a secondary heading
+## 두번째 헤드라인
 
-Here's a useless table:
+테이블 박스:
 
-| Number | Next number | Previous number |
+| 번호 | 다음번호 | 이전번호 |
 | :------ |:--- | :--- |
 | Five | Six | Four |
 | Ten | Eleven | Nine |
