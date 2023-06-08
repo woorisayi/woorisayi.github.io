@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My Website
+title: 우리사이
 
 # Your name to show in the footer
-author: Some Person
+author: 이경호
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "주인장"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
