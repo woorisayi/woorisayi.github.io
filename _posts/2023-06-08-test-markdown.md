@@ -12,7 +12,7 @@ jekyll 에서는 github 호스팅을 통해 간편하게 블로그를 생성할�
 기본적인 셑팅이 힘든 사람의 경우 Tstory 등의 서비스를 이용하는걸 추천한다. 
 
 1.github 가입 및 Repository 생성 
- github 가입 하기 [github 사이트](https://markdowntutorial.com/)
+ github 가입 하기 [github 사이트](https://github.com/)
 
 **Here is some bold text**
 
