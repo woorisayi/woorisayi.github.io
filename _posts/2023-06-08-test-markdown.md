@@ -8,7 +8,11 @@ tags: [github]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+jekyll 에서는 github 호스팅을 통해 간편하게 블로그를 생성할수 있는 방법이 있다.
+기본적인 셑팅이 힘든 사람의 경우 Tstory 등의 서비스를 이용하는걸 추천한다. 
+
+1.github 가입 및 Repository 생성 
+ github 가입 하기 [github 사이트](https://markdowntutorial.com/)
 
 **Here is some bold text**
 
