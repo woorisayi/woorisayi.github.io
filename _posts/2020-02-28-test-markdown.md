@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: github 블로그 만들기
+subtitle: jekyll 이용한 간편한 블로그 만들기
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [github]
 comments: true
 ---
 
