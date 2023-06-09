@@ -30,7 +30,7 @@ jekyll 에서는 github 호스팅을 통해 간편하게 블로그를 생성할�
 
 How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](/assets/img/path.jpg)
 
 It can also be centered!
 
