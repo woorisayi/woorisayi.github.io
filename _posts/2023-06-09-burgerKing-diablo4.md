@@ -22,8 +22,8 @@ comments: true
 기본적으로 분위기 있게 꾸며놨음. 한번 가볼만 하다!
 
 ## 이거 진짜 대박임 촛불인데 가짜야!!
-![Crepe](/assets/img/candle.jpg)
-
+<video autoplay src="/assets/img/candle.mp4"></video>
+쿠팡 달려간다 진짜.
 
 ** 이건 아침에 먹은 빨간약. **
 ![Crepe](/assets/img/redmedicin.jpg)
