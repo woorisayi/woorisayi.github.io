@@ -3,7 +3,7 @@ layout: post
 title: github 블로그 만들기
 subtitle: jekyll 이용한 간편한 블로그 만들기
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+gh-badge: [github, jekyll, blog]
 tags: [github]
 comments: true
 ---

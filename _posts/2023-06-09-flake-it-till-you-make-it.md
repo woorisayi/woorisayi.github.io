@@ -5,7 +5,7 @@ subtitle: 영혼의 단짝 민영쿤, 오뺑이
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [일상, 깨시민]
 ---
 
 젤다의 전설은 레전드다. 민영쿤은 마스터 소드 뽑기를 앞두고 있다. 어제는 피자를 먹었는데 씬피자를 시켰음
