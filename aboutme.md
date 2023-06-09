@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 나에 대하여
+subtitle: 왜 나랑 데이트 할려고 하니?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+이름 이경호. 40대 초반 아재
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 헥앤 슬레쉬를 사랑함(DIABLO, POE, OverWatch?)
+- 운동을 좋아했었음?
+- 리뷰영상 좋아함(특히 외국인)
 
-What else do you need?
+궁금한게 더있나?
 
-### My story
+### 나의 이야기
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+기억력이 점점 쇠퇴하면서, 블로그의 필요성을 느낌, 그날 그날 느낀점이나 좋았던일, 업무적으로 필요한 기록등을 작성해 나갈예정!
