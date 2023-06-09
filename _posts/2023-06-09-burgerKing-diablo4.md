@@ -2,6 +2,7 @@
 layout: post
 title: 디아블로4 셑트로 꾸민 버거킹 방문기
 subtitle: 어머니시어..
+thumbnail-img: /assets/img/rogo.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [디아블로4, 버거킹]
 tags: [diablo4]
