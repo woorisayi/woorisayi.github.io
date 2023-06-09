@@ -12,7 +12,7 @@ comments: true
 오늘은 디아블로4 출시와 동시에, 콜라보를 진행하고 있는 선릉역 버거킹을 가보았다.
 <video autoplay controls src="/assets/img/road.mp4"></video>
 
-** 나를 반겨주는 디아블로 소품들 **
+** 나를 반겨주는 디아블로 소품들! **
 
 ![Crepe](/assets/img/rogo.jpg)
 
