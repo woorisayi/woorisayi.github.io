@@ -32,7 +32,7 @@ comments: true
 쿠팡 달려간다 진짜.
 
 ** 이건 아침에 먹은 빨간약. **
-![Crepe](/assets/img/redmedicin.jpg)
+![Crepe](/assets/img/redmedicin.jpg){: width="324" height="721"}{: .center}
 
 백종원의 덕업 일치로 만들어낸 콜라보 맛은 박카스 + 석류? 먹을만 했음
 
