@@ -14,15 +14,14 @@ comments: true
 
 ** 나를 반겨주는 디아블로 소품들! **
 
-![Crepe](/assets/img/rogo.jpg){: width="343" height="806"}{: .center}
-
+![Crepe](/assets/img/rogo.jpg){: width="324" height="721"}{: .center}
 2층을 올라가면 보이던 문구.
 
-![Crepe](/assets/img/table1.jpg){: width="343" height="806"}{: .center}
-![Crepe](/assets/img/table2.jpg){: width="343" height="806"}{: .center}
+![Crepe](/assets/img/table1.jpg){: width="324" height="721"}{: .center}
+![Crepe](/assets/img/table2.jpg){: width="324" height="721"}{: .center}
 
 테이블도 분위기 있게 꾸며져 있었다.
-![Crepe](/assets/img/burger.jpg){: width="343" height="806"}{: .center}
+![Crepe](/assets/img/burger.jpg){: width="324" height="721"}{: .center}
 
 오늘 먹은 디아블로4 버거 세트 
 기본적으로 분위기 있게 꾸며놨음. 한번 가볼만 하다!
