@@ -14,7 +14,7 @@ comments: true
 
 ** 나를 반겨주는 디아블로 소품들! **
 
-![Crepe](/assets/img/rogo.jpg){: .mx-auto.d-block :}
+![Crepe](/assets/img/rogo.jpg){: width="300" height="300"}{: .center}
 
 2층을 올라가면 보이던 문구.
 
